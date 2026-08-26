@@ -15,7 +15,7 @@ A lightweight blog/posts application built with **Node.js**, **Express**, and **
 - EJS templating for server-side rendering
 - `method-override` support for PATCH & DELETE via HTML forms
 
----
+-----------
 
 ## 🛠️ Tech Stack
 
