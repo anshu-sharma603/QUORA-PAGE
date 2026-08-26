@@ -17,7 +17,7 @@ A lightweight blog/posts application built with **Node.js**, **Express**, and **
 
 -----------
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack ##
 
 | Technology        | Purpose                         |
 |-------------------|---------------------------------|
