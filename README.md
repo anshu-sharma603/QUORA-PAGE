@@ -29,7 +29,7 @@ A lightweight blog/posts application built with **Node.js**, **Express**, and **
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure----------
 
 ```
 project/
