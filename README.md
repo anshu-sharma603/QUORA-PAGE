@@ -1,4 +1,4 @@
-# 📝 Mini Blog — Express.js REST API
+# 📝 Mini Blog — Express.js REST API-------------
 
 A lightweight blog/posts application built with **Node.js**, **Express**, and **EJS** templating. Supports full **CRUD** operations (Create, Read, Update, Delete) for posts — all stored in-memory.
 
